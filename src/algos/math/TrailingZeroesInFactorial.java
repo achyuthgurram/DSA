@@ -1,5 +1,15 @@
 package algos.math;
 
+/**
+ * Given an integer A, return the number of trailing zeroes in A! i.e., factorial of A.
+ *
+ * Note: Your solution should run in logarithmic time complexity.
+ *
+ * 1 <= A <= 109
+ *
+ * Return a single integer denoting number of zeroes.
+ */
+
 public class TrailingZeroesInFactorial {
     public static void main(String[] args) {
         //A = 5
