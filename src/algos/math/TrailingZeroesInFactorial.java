@@ -8,6 +8,8 @@ package algos.math;
  * 1 <= A <= 109
  *
  * Return a single integer denoting number of zeroes.
+ *
+ * TC: O(log N base 5)
  */
 
 public class TrailingZeroesInFactorial {
